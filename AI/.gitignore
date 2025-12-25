@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Project specific
+uploads/
+gtsrb_model.pth
+
+# OS specific
+.DS_Store
+Thumbs.db
